@@ -80,12 +80,11 @@ experiences:
       company: SnS(Software & System) Laboratory, Daegu Catholic University
       details: |
         I developed a ITS(Intelligent Transportation System) programs. The particiatped projects are below.
-
-        - 포트홀 프리 포장관리 시스템 개발(5년차), 건설기술연구원 (2018.03 - 2018.10)      
-        - 포트홀 프리 포장관리 시스템 개발(4년차), 건설기술연구원 (2017.06 - 2017.10)
-        - 개인용 통합 스토리지 서비스 시스템 연구, 국가연구재단
-        - 태양광 오류 패널 탐지, 한남전기공사
-        - 노인 케어 시스템, KIST (2018.03 - 2018.05)
+            - 포트홀 프리 포장관리 시스템 개발(5년차), 건설기술연구원 (2018.03 - 2018.10)      
+            - 포트홀 프리 포장관리 시스템 개발(4년차), 건설기술연구원 (2017.06 - 2017.10)
+            - 개인용 통합 스토리지 서비스 시스템 연구, 국가연구재단
+            - 태양광 오류 패널 탐지, 한남전기공사
+            - 노인 케어 시스템, KIST (2018.03 - 2018.05)
 
 
     - role: Projects Leader
@@ -94,10 +93,10 @@ experiences:
       details: |
         I managed and helped a devlopers. Mostly, i checked a technical feasibility and divided a task.
         The projects that worked as a leader are below.
+            - 터널 내 균열 탐지 시스템 개발, 아와소프트 (2019.06 - 2019.12)
+            - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)    
+            - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
 
-        - 터널 내 균열 탐지 시스템 개발, 아와소프트 (2019.06 - 2019.12)
-        - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)    
-        - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
 projects:
     title: Projects
     intro: >
