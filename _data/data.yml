@@ -99,32 +99,61 @@ experiences:
             - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)    
             - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
 projects:
-    title: Projects
+    title: Projects in Telechips
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # 2019년 ~ 2020년
+      Maintaining a Telechips Display Daemon (TDD) for HDMI certification
+    # 2020년 ~ present
+      Developing a Telechips Display Manager (TDM) for DP certification
+      
+ 
+    title: Projects in Master degree.
+    intro: >
+      I usually devloped and led a ITS(Intelligent Transportation System) projects in Master degree.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    # 2019 년
+      - title: [ In 2019 ]
+      - title: 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)
+        link: "http://itgit.cu.ac.kr/SnSLab/Development-of-Drone-Based-for-Detecting-Pothole"
+        tagline: "A project for detecting a pothole with drone. The pothole can cause a hazard stituation in a road. 
+        The drone fly and capture road images. So, our system find the pothole with CNN, R-CNN and location of pothole."
+        
+      - title: 터널 내 균열 탐지 시스템 개발, 아와소프트 (2019.06 - 2019.12)
+        link: "http://itgit.cu.ac.kr/SnSLab/AWA-Tunnel-Image-DC"
+        tagline: "A project for detecting a tunnel crack and image stitching.
+         A crack in tunnels can occur the collapse of tunnel.
+         So, our system is targeted the fast and simple detecting tunnel cracks "
+    # 2018 년
+      - title: [ In 2018 ]
+      - title: 포트홀 프리 포장관리 시스템 개발(5년차), 건설기술연구원 (2018.03 - 2018.10)
+        link: "http://itgit.cu.ac.kr/SnSLab/DONE_Hybrid_PD"
+        tagline: "A project for detecting a pothole with smart phone. System find the pothole with Computer Vision algotirhm.
+        We developed the android application that find the potholes"
+        
+      - title: 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
+        link: " "
+#         tagline: ""        
+        
+      - title: 노인 케어 시스템, KIST (2018.03 - 2018.05)
+        link: "http://itgit.cu.ac.kr/SnSLab/KIST_K-Log_System"
+        tagline: "A project for care a old people in a snatorium with cameras. This system can monitor people, tag a behavior and collect a various Iot devices."
+      
+      # 2017 년
+      - title: [ In 2017 ]
+      - title: 개인용 통합 스토리지 서비스 시스템 연구, 국가연구재단
+        link: " "
+#         tagline: ""
+      
+      - title: 포트홀 프리 포장관리 시스템 개발(4년차), 건설기술연구원 (2017.06 - 2017.10)
+        link: "http://itgit.cu.ac.kr/SnSLab/DONE_Feature_Based_PD"
+        tagline: "A project for detecting a pothole. We develope the window application based MFC, C++ with OpenCV."
+        
+      - title: 태양광 오류 패널 탐지, 한남전기공사
+        link: "http://itgit.cu.ac.kr/SnSLab/Deprecated_ErrorSolarPanelDetecting"
+        tagline: "A project for detecting faulty solar panels which have a hot spot. The hot spot is well known as a burning spot.
+        In solar power plants, owners cannot find the hot spot easily. Even experts, they needs much times. So we developed a automatic system for find the hot spot with Drone, RGB and Thermal cameras."
+  
 oss:
     title: OSS Contributions
     intro: >
