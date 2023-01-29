@@ -99,13 +99,11 @@ experiences:
             - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)    
             - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
 projects:
-    title: Projects in Telechips
+    title: Projects
     intro: >
-    # 2019년 ~ 2020년
-      Maintaining a Telechips Display Daemon (TDD) for HDMI certification
-    # 2020년 ~ present
-      Developing a Telechips Display Manager (TDM) for DP certification
-      
+      You can list your side projects in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
  
     title: Projects in Master degree.
     intro: >
