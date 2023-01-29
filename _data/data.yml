@@ -57,12 +57,14 @@ education:
     - degree: BSc in Department of Information Communications Engineering
       university: Deague Catholic University
       time: 2014 - 2018
-      details: | GPA : 3.27/4.5
+      details: |
+         - GPA : 3.27/4.5
 
     - degree: MSc in Information Technology Engineering
       university: Deague Catholic University
       time: 2018 - 2020
-      details: | GPA : 4.33/4.5
+      details: |
+          - GPA : 4.33/4.5
 
 experiences:
     - role: Developer
