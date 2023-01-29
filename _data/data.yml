@@ -67,6 +67,8 @@ education:
           - GPA : 4.33/4.5
 
 experiences:
+    title: Experiences
+    info:
     - role: Developer
       time: 2019 - presenct
       company: Telechips
