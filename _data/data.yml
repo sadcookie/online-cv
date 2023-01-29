@@ -73,9 +73,9 @@ experiences:
       time: 2019 - presenct
       company: Telechips
       details: |
-        I worked in a embedded system software developer.
-        I developing a dispaly engine to get DP ceritifcations.
-        I maintaing a hdmi display engine in a Linux systems.
+        I worked in a embedded system software developer.|
+        I developing a dispaly engine to get DP ceritifcations.|
+        I maintaing a hdmi display engine in a Linux systems.|
 
     - role: Developer
       time: 2016 - 2019
@@ -152,70 +152,131 @@ projects:
         link: "http://itgit.cu.ac.kr/SnSLab/Deprecated_ErrorSolarPanelDetecting"
         tagline: "A project for detecting faulty solar panels which have a hot spot. The hot spot is well known as a burning spot.
         In solar power plants, owners cannot find the hot spot easily. Even experts, they needs much times. So we developed a automatic system for find the hot spot with Drone, RGB and Thermal cameras."
-  
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
+ 
+publications: 
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "   < SCI(E), SCOPUS (Total: 1, 1st author:　０) >" 
+      
+      - title: "Pedestrian-Safe Smart Crossing System Based on IoT with Object Tracking" 
+        authors: KwangEun An, 【Sung Won Lee】, Young Ju Jeong, Dongmahn Seo
+        conference: LNEE 474, pp.926-931, Jan. 2018.
+        
+      - title: "   < International Conferences (Total: 6, 1st author:　3) >"
+      
+      - title: "Experiment of Image Processing Algorithm for Efficient Pothole Detection"
+        authors: 【Sung Won Lee】, SeokJin Kim, Jeong Han, Kwang Eun An, Seung-Ki Ryu, Dongmahn Seo
+        conference: 2019 IEEE International Conference on Consumer Electronics (ICCE), 11 Jan, 2019.
+      
+      - title: "Detecting Faulty Solar Panels Based on Thermal Image Processing"
+        authors: 【Sung Won Lee】, KwangEun An, ByungDon Jeon, Kyoung Yeon Cho, Seung Jae Lee, Dongmahn Seo
+        conference: 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 1072-1073, 12 Jan, 2018.
+        
+      - title: "Improved Durability of Soil Humidity Sensor for Agricultural IoT Environments"
+        authors: Young Ju Jeong, Kwang Eun An, 【Sung Won Lee】, Dongmahn Seo
+        conference: 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 775-776, 12 Jan, 2018.
+        
+      - title: "Image Processing-based Pothole Detecting System for Driving Environment"
+        authors: 【Sung Won Lee】, SeokJin Kim, KwangEun An, Seung-Ki Ryu, Dongmahn Seo
+        conference: 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 513-514, 12 Jan, 2018.
+      
+      - title: "Detecting a pothole using Deep Convolutional Neural Network models for an adaptive shock observing in a vehicle driving"
+        authors: KwangEun An, 【Sung Won Lee】, Seung-Ki Ryu, Dongmahn Seo
+        conference: 2018 IEEE International Conference on Consumer Electronics (ICCE), pp. 488-489, 12 Jan, 2018.
+        
+      - title: "Smart Crossing System using IoT"
+        authors: KwangEun An, Young Ju Jeong, 【Sung Won Lee】, and Dongmahn Seo
+        conference: 2017 IEEE International Conference on Consumer Electronics (ICCE), pp. 411-412, 08 Jan, 2017.
+      
+      - title: "   < 국내 학술대회 (총 18 편, 주 저자 : 6편) >"
+      
+      - title: "터널 내부의 파노라마 이미지 생성을 위한 이미지 특징 추출 알고리즘 비교 분석"
+        authors: 김석진, 【이성원】, 서동만
+        conference: 2019년 한국컴퓨터종합학술대회 논문집, pp.1409-1411, 2019.06.26.
+      
+      - title: "딥러닝 기반 포트홀 탐지 시스템에서의 학습 모델 비교 분석"
+        authors: 안광은, 【이성원】, 정영주, 김석진, 류승기, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.731-733, 2018.12.19.
+      
+      - title: "Squeezenet 기반 포트홀 탐지에서 데이터셋 구성 기법"
+        authors: 【이성원】, 안광은, 정영주, 류승기, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.800-802, 2018.12.19.
+        
+      - title: "모바일 기반 포트홀 탐지 시스템 효율화를 위한 영상처리 및 딥러닝 기반 알고리즘 연구"
+        authors: 김석진, 안광은, 【이성원】, 류승기, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.1595-1597, 2018.12.19.
+        
+      - title: "노인 복지 시설 CCTV를 이용한 웹 기반 노인 행동 관리 서비스"
+        authors: 한정, 김석진, 박준홍, 【이성원】, 고희동, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.1707-1709, 2018.12.19.
+      
+      - title: "노인 행동 관리 서비스 시스템에서 OGC O&M 온톨로지 기반 데이터 관리 기법"
+        authors: 정연욱, 【이성원】, 고희동, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.1759-1761, 2018.12.19.
+        
+      - title: "도로 항공 이미지에서 도로 영역 및 차선 검출을 위한 영상처리 기법 연구"
+        authors: 전민건, 【이성원】, 장진환, 서동만
+        conference: 2018년 한국소프트웨어종합학술대회 논문집, pp.2047-2049, 2018.12.19.
+              
+      - title: "기계학습과 이미지 처리 기반 실시간 포트홀 탐지 시스템 제안"
+        authors: 【이성원】, 안광은, 정영주, 김석진, 류승기, 서동만
+        conference: 2018년 한국컴퓨터종합학술대회 논문집, pp.7-9, 2018.06.14.
+      
+      - title: "IoT 기반 드론 확장 모듈 연구"
+        authors: 김석진, 정영주, 【이성원】, 서동만
+        conference: 2018년 한국컴퓨터종합학술대회 논문집, pp.1828-1830, 2018.06.14.
+        
+      - title: "모바일 기반 실시간 포트홀 탐지 어플리케이션"
+        authors: 김석진, 【이성원】, 안광은, 류승기, 서동만
+        conference: 2017년 한국소프트웨어종합학술대회 논문집, pp.1766-1768, 2017.12.20
+        
+      - title: "랩탑용 실시간 포트홀 탐지 시스템"
+        authors: 【이성원】, 안광은, 김석진, 류승기, 서동만
+        conference: 2017년 한국소프트웨어종합학술대회 논문집, pp.2113-2115, 2017.12.20.
+      
+      - title: "스마트폰 기반 모바일넷 심층 합성곱 신경망을 사용한 포트홀 탐지 시스템"
+        authors: 안광은, 【이성원】, 김석진, 류승기, 서동만
+        conference: 2017년 한국소프트웨어종합학술대회 논문집, pp.901-903, 2017.12.20.
+        
+      - title: "반려 식물을 위한 스마트 화분"
+        authors: 이민영, 정영주, 【이성원】, 한정, 김석진, 한현관, 서동만
+        conference: 정보처리학회 2017 추계학술발표대회 논문집, 24권, 2호, pp.1192-1194, 2017.11.03.
+                        
+      - title: "웨이블릿과 슈퍼픽셀을 이용한 포트홀 탐지"
+        authors: 【이성원】, 안광은, 조영태, 서동만
+        conference: 정보처리학회 2017 춘계학술발표대회 논문집, 24권, 1호, pp. 976-978, 2017.04.
+      
+      - title: "스마트 횡단보도 시스템을 이용한 횡단보도 내 구역 물체 탐지 연구"
+        authors: 안광은, 【이성원】, 정영주, 이민우, 이득희, 서동만
+        conference: 2016년 한국정보과학회 동계학술대회, pp.1498-1500, 2016.12.21.
+        
+      - title: "스마트 농장에서의 데이터 수집 방법"
+        authors: 정영주, 안광은, 【이성원】, 이민우, 서동만
+        conference: 2016년 한국정보과학회 동계학술대회, pp.1495-1497, 2016.12.21.
+                                        
+      - title: "농장 자동화 시스템 데이터 활용 방안 연구"
+        authors: 【이성원】, 정영주, 안광은, 이민우, 서동만
+        conference: Convergence Research Letter, Vol. 2, No. 4, pp.709-713, 2016.10.
+      
+      - title: "IoT와 패턴 학습 기반의 스마트 농장 자동 급수 시스템 제안"
+        authors: 정영주, 안광은, 【이성원】, 이민우, 서동만
+        conference: 한국정보처리학회 2016년 춘계학술발표대회 논문집, 제23권, 제1호, 935-938, 2016.04.29.
+        
+      - title: "클라우드 저장공간 통합 플랫폼의 보안 방법 연구"
+        authors: 【이성원】, 이민우, 안광은, 정영주, 길준민, 서동만
+        conference: 한국정보처리학회 2016년 춘계학술발표대회 논문집, 제23권, 제1호, 318-320, 2016.04.29.
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Skills
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+     - name : Python & Tensorflow & Keras
+     
+     - name : C & C++ & MFC & OpenCV  
+     
+     - name : Java & OpenCV
+     
+     - name : HTML5 & Javascript & jQuery 
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
