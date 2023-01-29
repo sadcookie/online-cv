@@ -101,9 +101,10 @@ experiences:
 projects:
     title: Projects in Telechips
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      # 2019년 ~ 2020년
+      Maintaining a Telechips Display Daemon (TDD) for HDMI certification
+      # 2020년 ~ present
+      Developing a Telechips Display Manager (TDM) for DP certification
  
     title: Projects in Master degree.
     intro: >
