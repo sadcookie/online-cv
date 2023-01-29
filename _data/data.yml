@@ -98,17 +98,15 @@ experiences:
         - 터널 내 균열 탐지 시스템 개발, 아와소프트 (2019.06 - 2019.12)
         - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2019.01 - 2019.12)    
         - 드론을 활용한 비탈면 및 도로포장 관리 효율화 기술 개발, 건설기술연구원 (2018.04 - 2018.12)
-       
-
 projects:
     title: Projects
     intro: >
+
     # 2019년 ~ 2020년
       Maintaining a Telechips Display Daemon (TDD) for HDMI certification
     # 2020년 ~ present
       Developing a Telechips Display Manager (TDM) for DP certification
-      
- 
+       
     title: Projects
     intro: >
       I usually devloped and led a ITS(Intelligent Transportation System) projects in Master degree.
