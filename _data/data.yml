@@ -73,11 +73,28 @@ experiences:
     info:
     - role: Developer
       time: 2019 - presenct
-      company: Telechips
+      company: Telechips (Video Display System Team)
       details: |
         I worked in a embedded system software developer.|
         I developing a dispaly engine to get DP ceritifcations.|
         I maintaing a hdmi display engine in a Linux systems.|
+       
+        [ HDMI Display Engine ]
+         - Maintaining a Telechips Display Daemon (TDD) for HDMI certification
+         - TDD is working based on a Frame buffer driver.
+         - Platform : Linux
+         - Language : C, CPP
+         - Build tools : cmake
+         - Source code management : git
+         
+        [ DRM Display Engine ]
+         - Developing a Telechips Display Manager (TDM) for HDMI & DP certifications
+         - TDM is working based on a DRM (Direct Rendering Manager) driver.
+         - Platform Linux
+         - Language : C, CPP
+         - Build tools : cmake
+         - Source code management : git
+        
 
     - role: Developer
       time: 2016 - 2019
