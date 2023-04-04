@@ -47,7 +47,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have research experience during undergraduate and master in SnSLab at Daegu Catholic University.
+      I working in a Telechips for Embedded S/W Engineer for a devloping Display Engine.
+      I have researched experience during undergraduate and master in SnSLab at Daegu Catholic University.
       I have researched and developed a multimedia systems for a ITS(Intelligent Transportation System).
       I have intereseted in machine learning (CNN, R-CNN) and computer vision (CV).
       I'd like to work with a new domains which i didn't work before.
@@ -80,20 +81,39 @@ experiences:
         I maintaing a hdmi display engine in a Linux systems.|
        
         [ HDMI Display Engine ]
-         - Maintaining a Telechips Display Daemon (TDD) for HDMI certification
-         - TDD is working based on a Frame buffer driver.
-         - Platform : Linux
-         - Language : C, CPP
-         - Build tools : cmake
-         - Source code management : git
+       
+         -  Maintaining a display engine for HDMI certification based on FB driver
+         -	Project : KT STB
+         -	Role
+             -	Maintaining a display engine
+             -	Handling a HDMI issues
+         -	Skills
+             -	HDMI 1.4 & 2.x specification
+             -	CTA 861 specification
+             -	Platform : Linux
+             -	Programing Language : C, shell
+             -  Build tools : cmake
+             -	Source code Management : git
+
          
         [ DRM Display Engine ]
-         - Developing a Telechips Display Manager (TDM) for HDMI & DP certifications
-         - TDM is working based on a DRM (Direct Rendering Manager) driver.
-         - Platform Linux
-         - Language : C, CPP
-         - Build tools : cmake
-         - Source code management : git
+
+         -  Developing a Display Manager for HDMI & DP certifications based on DRM Driver
+         -  Project : JVCKenwood
+         -  Role
+             -  Design a whole engine structure
+             -  Developing a IPC (Inter Process Communication)
+             -  Developing a Weston backend module
+         -  Skills
+             -  CTA 861 specification
+             -  Weston open source 
+             -  Nanomsg(IPC) open source
+             -  AUTOSAR, CERT, MISRA secure coding
+             -  Platform : Linux
+             -  Programing Language : C, CPP, shell
+             -  Build tools : cmake, meson
+             -  Source code Management : git
+
         
 
     - role: Developer
